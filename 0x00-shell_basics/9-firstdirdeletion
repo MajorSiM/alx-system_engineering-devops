@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdi -rf /tmp/my_first_directory
+rmdi -r /tmp/my_first_directory
